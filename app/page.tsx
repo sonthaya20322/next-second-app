@@ -8,7 +8,8 @@ export default function Page() {
       <hr />
       <h3>Link to Basic Route Page</h3>
       <Link href="/register">[Register]</Link>
-      <Link href="/products">[Products]</Link> 
+      <Link href="/products">[Products]</Link>
+      <Link href="/member">[Member]</Link> 
 
 
 
